@@ -15,7 +15,9 @@ export default function App() {
           </View>
         </ScrollView>
         <View style={styles.cont2}>
-          <View style={[styles.body2, { backgroundColor: "white" }]}> </View>
+          <View style={[styles.body2, { backgroundColor: "white" }]}>
+            <Text>ola </Text>
+          </View>
         </View>
       </ScrollView>
 
